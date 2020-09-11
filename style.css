@@ -543,7 +543,7 @@ textarea {
     font-size: 0.7rem;
     margin-top: -4%;
   }
-  #contact .contactStatement p {
+  #contact .contactStatement {
     padding-left: 7%;
   }
   #contact label {
@@ -621,7 +621,7 @@ textarea {
   #skills .btn-getInTouch {
     margin-left: 24%;
   }
-   #contact .contactStatement p {
+   #contact .contactStatement {
     padding-left: 7%;
   }
   #contact .personal-info {
