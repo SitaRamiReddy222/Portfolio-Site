@@ -544,7 +544,7 @@ textarea {
     margin-top: -4%;
   }
   #contact .contactStatement p {
-    margin-left: 10px;
+    padding-left: 7%;
   }
   #contact label {
     font-weight: normal;
@@ -620,6 +620,9 @@ textarea {
   }
   #skills .btn-getInTouch {
     margin-left: 24%;
+  }
+   #contact .contactStatement p {
+    padding-left: 7%;
   }
   #contact .personal-info {
     padding-left: 7%;
